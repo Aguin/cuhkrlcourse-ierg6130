@@ -15,9 +15,9 @@ Unofficial Supplementary Materials for Reinforcement Learning Course at CUHK
   
 - Assignment: [ierg6130-assignment](https://github.com/cuhkrlcourse/ierg6130-assignment)
   
-  - I share my implementation [here]() (3/4), plz let me know if you find any issue
+  - I share my implementation [here](https://github.com/Aguin/cuhkrlcourse-ierg6130/tree/master/assignment) (3/4), plz let me know if you find any issue
   
-- Related Papers: [Here]()
+- Related Papers: [Here](https://github.com/Aguin/cuhkrlcourse-ierg6130/tree/master/papers)
 
-- Supplementary Code: [Here](), [DeepRL-Tutorials](https://github.com/qfettes/DeepRL-Tutorials)
+- Supplementary Code: [Here](https://github.com/Aguin/cuhkrlcourse-ierg6130/tree/master/code), [DeepRL-Tutorials](https://github.com/qfettes/DeepRL-Tutorials)
 
