@@ -11,7 +11,7 @@ Unofficial Supplementary Materials for Reinforcement Learning Course at CUHK
 
 - Slides: [IntroRL](https://github.com/zhoubolei/introRL)
   
-  - Other courses: [UCL Course on RL(2015)](https://www.davidsilver.uk/teaching/), [CS285@UCB(2019)](http://rail.eecs.berkeley.edu/deeprlcourse/), [NTU Machine Learning (2020, in Chinese)](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html)
+  - Other courses: [UCL Course on RL(2015)](https://www.davidsilver.uk/teaching/), [CS285@UCB(2019)](http://rail.eecs.berkeley.edu/deeprlcourse/), [NTU Machine Learning (2020, in Chinese)](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html), [RLChina Summer School(2020, in Chinese)](https://rlchina.org/)
   
 - Assignment: [ierg6130-assignment](https://github.com/cuhkrlcourse/ierg6130-assignment)
   
